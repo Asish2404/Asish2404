@@ -81,10 +81,9 @@ A healthcare web application built using React, FastAPI, and MongoDB that stream
 
 ## 📈 GitHub Stats
 
-> **Note:** Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Asish2404&show_icons=true&theme=github_dark&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
