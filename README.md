@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi 👋 I'm Asish Bose
+# Hi 👋, I'm Asish Bose
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Final+Year+B.Tech+CSE+Student;Aspiring+Data+Analyst;Passionate+about+Data+Analytics+%26+AI;Building+Projects+That+Solve+Real+World+Problems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Final+Year+B.Tech+CSE+Student;Aspiring+Data+Analyst;Passionate+about+Data+Analytics+%26+AI;Building+Projects+That+Solve+Real+World+Problems" alt="Typing SVG" />
 
-### Turning raw data into meaningful insights.
+### **Turning Data into Insights. Building Solutions that Matter.**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Asish2404&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/Asish2404)
+![](https://komarev.com/ghpvc/?username=Asish2404&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 </div>
 
@@ -18,36 +18,36 @@
 
 📊 Aspiring **Data Analyst**
 
-🤖 Interested in **Data Analytics, Data Science & Artificial Intelligence**
+💡 Passionate about **Data Analytics, Artificial Intelligence, Data Science, and Problem Solving**
 
-📈 Currently building projects around analytics, visualization, automation and full-stack development.
+🚀 Currently building practical projects in analytics, visualization, automation, and full-stack development.
 
-🎯 **Career Goal**
+### 🎯 Career Goal
 
-> Start my career as a **Data Analyst**, master business intelligence and analytics, and eventually transition into **Data Science & AI**.
+> **Start as a Data Analyst, master Business Intelligence & Analytics, and grow into Data Science & Artificial Intelligence.**
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Data Analytics
+### 📊 Data Analytics
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Web Development
+### 🌐 Web Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
+### 🛠 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -56,45 +56,25 @@
 
 # 🚀 Featured Projects
 
+## 📈 Quantitative Finance Model *(Final Year Project)*
+
+**Python • Pandas • NumPy • Matplotlib**
+
+- 📊 Historical Market Analysis
+- 📉 Quantitative Strategy Evaluation
+- 📈 Financial Data Visualization
+- 🤖 Machine Learning Integration *(Upcoming)*
+
+---
+
 ## 📊 Sales Performance Dashboard
 
-**Tech:** Excel • Power Query • Pivot Tables • Pivot Charts
+**Microsoft Excel • Power Query • Pivot Tables • Pivot Charts**
 
-✔ Data Cleaning
-
-✔ Interactive Dashboard
-
-✔ Business KPI Analysis
-
-✔ Dynamic Reports
-
----
-
-## 📈 Quantitative Finance Model (Final Year Project)
-
-**Tech:** Python • Pandas • NumPy • Matplotlib
-
-✔ Historical Market Analysis
-
-✔ Strategy Evaluation
-
-✔ Financial Data Visualization
-
-✔ Quantitative Research
-
----
-
-## 🚌 TapNRide Smart Bus Fare Collection System
-
-**Tech:** ESP32 • RFID • GPS • FastAPI
-
-✔ Smart Ticketing
-
-✔ Fare Automation
-
-✔ Real-Time Tracking
-
-✔ IoT Integration
+- Interactive Business Dashboard
+- Data Cleaning & Transformation
+- KPI Analysis
+- Dynamic Reports using Slicers
 
 ---
 
@@ -102,70 +82,62 @@
 
 **Interactive DSA Learning Platform**
 
-**Tech:** React • FastAPI • MongoDB
-
-Features:
+**React • FastAPI • MongoDB**
 
 - Algorithm Visualizations
 - Step-by-Step Learning
 - Complexity Analysis
-- Interactive UI
+- Modern Interactive UI
 
 ---
 
-## 🏥 Rapid Med
+## 🏥 Kent
 
-Healthcare Management Web Application
+**Healthcare & Pharmacy Web Application**
 
-**Tech:** React • FastAPI • MongoDB
+**React • FastAPI • MongoDB • Tailwind CSS**
 
-Features:
-
-- Authentication
-- Medicine Management
-- Responsive UI
+- Secure Authentication
+- Product Management
+- Shopping Cart
 - Healthcare Services
+- Responsive Design
+
+---
+
+## 🚌 TapNRide Smart Bus Fare Collection System
+
+**ESP32 • RFID • GPS • FastAPI**
+
+- Smart Ticketing System
+- Automated Fare Collection
+- Real-Time Tracking
+- IoT Integration
 
 ---
 
 # 🌱 Currently Learning
 
-- Advanced SQL
-- Python for Data Analytics
-- Microsoft Power BI
-- Machine Learning
-- Data Visualization
-- Statistics for Data Science
+- 📊 Advanced SQL
+- 🐍 Python for Data Analytics
+- 📈 Microsoft Power BI
+- 🤖 Machine Learning
+- 📉 Data Visualization
+- 📚 Statistics for Data Science
 
 ---
 
-# 📊 GitHub Analytics
+# 📌 Current Focus
 
-<p align="center">
+✔ Building Portfolio Projects
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Asish2404&show_icons=true&theme=github_dark&hide_border=true"/>
+✔ Solving SQL Problems
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asish2404&layout=compact&theme=github_dark&hide_border=true"/>
+✔ Learning Machine Learning
 
-</p>
+✔ Improving Python Skills
 
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asish2404&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Asish2404&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
+✔ Preparing for Data Analyst Placements
 
 ---
 
@@ -178,7 +150,7 @@ Features:
 </a>
 
 <a href="mailto:asishbose313@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -187,14 +159,14 @@ Features:
 
 # 💬 Quote
 
-> **"Data tells a story. My goal is to uncover it, understand it, and transform it into impactful decisions."**
+> **"Data tells a story. My mission is to uncover it, understand it, and transform it into decisions that create real impact."**
 
 ---
 
 <div align="center">
 
-### ⭐ Thank you for visiting my GitHub profile!
+### ⭐ Thanks for visiting my GitHub Profile!
 
-*"Always learning. Always building. Always improving."*
+**Always Learning • Always Building • Always Improving 🚀**
 
 </div>
