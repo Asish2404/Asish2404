@@ -79,12 +79,9 @@ A healthcare web application built using React, FastAPI, and MongoDB that stream
 
 ---
 
-## 📈 Contribution Graph
-
 
 ## 📈 GitHub Contributions
-
-[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asish2404&theme=tokyo-night&hide_border=true)](https://github.com/Asish2404)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Asish2404/Asish2404/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
