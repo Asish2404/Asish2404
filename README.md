@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Asish%20Bose&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Data%20Analyst%20Growing%20Into%20Data%20Science%20and%20AI&descAlignY=58&descSize=17" width="100%" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Asish%20Bose&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Data%20Analyst%20%E2%80%A2%20Future%20Data%20Scientist%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=17" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+insight;Building+scalable+full-stack+applications;Automating+workflows%2C+one+script+at+a+time;Final+Year+CSE+Student+%7C+Data+%2B+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Turning+Data+into+Meaningful+Insights;Building+Projects+That+Solve+Real+Problems;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;React+%7C+FastAPI+%7C+MongoDB" />
 </a>
 
 <br/><br/>
@@ -23,36 +21,15 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
+I'm **Asish Bose**, a Final Year B.Tech Computer Science & Engineering student who turns raw data into decisions — through dashboards, automation, and full-stack applications.
 
-I'm a **Final Year B.Tech Computer Science & Engineering student** who enjoys turning raw, messy data into decisions people can actually act on. My work sits at the intersection of **analytics, automation, and full-stack engineering** — I build the dashboards, the pipelines, and the applications that put data in front of the right people.
+- 📊 Building end-to-end data analytics projects, from raw data to finished dashboard
+- 🐍 Sharpening Python, SQL & Power BI toward a Data Analyst role in 2026
+- 💻 Shipping full-stack apps with React, FastAPI & MongoDB alongside coursework
 
-Right now I'm sharpening my analytics foundations while working toward a career as a **Data Analyst**, with **Data Science & AI** as the long-term destination.
-
-- 🔭 Currently building projects across **web development** and **data analytics**
-- 📊 Deep interest in **business intelligence, visualization & automation**
-- 🌱 Learning something new in **SQL, Python & Machine Learning** every week
-- 🤝 Open to **Data Analyst / Software Development** opportunities
-- 💬 Ask me about **Excel, Power BI, React or FastAPI**
-
-</td>
-<td width="35%" valign="top" align="center">
-
-### 🎯 Current Focus
-
-`Data Analytics`
-`Power BI`
-`Advanced SQL`
-`Machine Learning`
-`Full-Stack Dev`
-
-</td>
-</tr>
-</table>
+Long-term, I'm working toward **Data Science & AI** — one project at a time.
 
 <br/>
 
@@ -64,7 +41,7 @@ Right now I'm sharpening my analytics foundations while working toward a career 
 
 <div align="center">
 
-**Programming**
+**Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,java,mysql" />
 
@@ -79,13 +56,19 @@ Right now I'm sharpening my analytics foundations while working toward a career 
 
 <br/><br/>
 
-**Web Development**
+**Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,fastapi,mongodb,html,css,js,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,fastapi,tailwind" />
 
 <br/><br/>
 
-**Tools**
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+<br/><br/>
+
+**Developer Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
@@ -103,32 +86,9 @@ Right now I'm sharpening my analytics foundations while working toward a career 
 <tr>
 <td width="70%" valign="top">
 
-### 📊 Sales Performance Dashboard
-Interactive Microsoft Excel dashboard powered by Power Query, Pivot Tables & Pivot Charts, surfacing KPIs and business analytics for sales performance tracking.
-
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-
-</td>
-<td width="30%" valign="top">
-
-**Highlights**
-- Pivot-driven KPIs
-- Dynamic charts
-- Business analytics
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="70%" valign="top">
-
 ### 📈 Quantitative Finance Model
-Final year project analyzing historical market data, evaluating quantitative trading strategies, and applying machine learning for financial prediction.
+*Final Year Project*
+Analyzed historical stock market data, backtested investment strategies, and explored predictive models for financial forecasting.
 
 <img src="https://skillicons.dev/icons?i=python" height="28" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
@@ -139,9 +99,9 @@ Final year project analyzing historical market data, evaluating quantitative tra
 <td width="30%" valign="top">
 
 **Highlights**
-- Market data analysis
+- Historical market analysis
+- Financial data visualization
 - Strategy backtesting
-- ML-based prediction
 
 </td>
 </tr>
@@ -153,12 +113,36 @@ Final year project analyzing historical market data, evaluating quantitative tra
 <tr>
 <td width="70%" valign="top">
 
-### 🧮 CodeVision
-Interactive Data Structures & Algorithms learning platform built to make abstract concepts visual and intuitive.
+### 📊 Sales Performance Dashboard
+Interactive Excel dashboard built to track sales performance and surface KPIs for decision-making.
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+
+</td>
+<td width="30%" valign="top">
+
+**Highlights**
+- KPI dashboard
+- Interactive pivot charts
+- Data cleaning & modeling
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
+### 💡 CodeVision
+Learning platform that visualizes Data Structures & Algorithms step-by-step, built to make abstract concepts easier to reason about.
 
 <img src="https://skillicons.dev/icons?i=react,fastapi,mongodb" />
 
-**Features:** Algorithm Visualization · Step-by-Step Learning · Complexity Analysis · Interactive Learning
+**Highlights:** Algorithm visualizer · Step-by-step walkthroughs · Complexity analysis
 
 </td>
 <td width="30%" valign="top" align="center">
@@ -175,12 +159,12 @@ Interactive Data Structures & Algorithms learning platform built to make abstrac
 <tr>
 <td width="70%" valign="top">
 
-### 💊 Kent
-Healthcare & Pharmacy web application enabling authentication, product management, cart-based ordering and healthcare services.
+### 🏥 Kent
+Healthcare & pharmacy web app with JWT authentication, medicine management, and a full shopping cart flow.
 
 <img src="https://skillicons.dev/icons?i=react,fastapi,mongodb,tailwind" />
 
-**Features:** Authentication · Product Management · Shopping Cart · Healthcare Services
+**Highlights:** JWT authentication · Product catalog & cart · Responsive UI
 
 </td>
 <td width="30%" valign="top" align="center">
@@ -198,20 +182,19 @@ Healthcare & Pharmacy web application enabling authentication, product managemen
 <td width="70%" valign="top">
 
 ### 🚌 TapNRide — Smart Bus Fare Collection System
-IoT-based smart transportation ticketing system built around RFID tap-in/tap-out fare collection and live GPS tracking.
+IoT-based fare collection system that automates ticketing via RFID and tracks vehicles in real time.
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
 <img src="https://img.shields.io/badge/RFID-4B8BBE?style=flat-square" />
 <img src="https://img.shields.io/badge/GPS-2E8B57?style=flat-square" />
 <img src="https://skillicons.dev/icons?i=fastapi" height="28" />
 
-</td>
-<td width="30%" valign="top">
+**Highlights:** RFID smart ticketing · Automatic fare deduction · Live GPS tracking
 
-**Highlights**
-- Embedded systems
-- RFID fare collection
-- Real-time GPS tracking
+</td>
+<td width="30%" valign="top" align="center">
+
+<a href="https://github.com/Asish2404/TapNRide"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -223,16 +206,36 @@ IoT-based smart transportation ticketing system built around RFID tap-in/tap-out
 
 <br/>
 
-## 📚 Currently Learning
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Platform |
+|:--|:--|
+| SQL (Basic) | HackerRank |
+| SQL (Intermediate) | HackerRank |
+| Python Development | Pinnacle Labs |
+| Python Using AI | AI For Techies |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🌱 Currently Learning & Focused On
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Advanced_SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python_for_Analytics-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Python_for_Analytics-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Statistics-011627?style=flat-square" />
 <img src="https://img.shields.io/badge/Data_Visualization-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Statistics-011627?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloud_Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
 
 </div>
 
@@ -303,6 +306,7 @@ IoT-based smart transportation ticketing system built around RFID tap-in/tap-out
 
 <a href="mailto:asishbose313@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/asish-bose-828b80321/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Asish2404"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -310,14 +314,16 @@ IoT-based smart transportation ticketing system built around RFID tap-in/tap-out
 
 <div align="center">
 
-> *"Data doesn't speak for itself — someone has to translate it into a decision worth making."*
+> *"Data is more than numbers — it represents people, decisions, and opportunities. My goal is to turn complexity into clarity through analytics, technology, and continuous learning."*
+>
+> **Learn → Build → Share → Improve**
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&width=100%" width="100%" />
 
 <div align="center">
-<sub>Thanks for stopping by — always happy to connect over data, design or code.</sub>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=420&lines=Thanks+for+visiting!;Happy+Coding+%F0%9F%91%8B" />
 </div>
