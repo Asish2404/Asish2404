@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Hi%20There,%20I'm%20Asish%20Bose&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%C2%B7%20Future%20Data%20Scientist%20%26%20AI%20Engineer&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Asish%20Bose&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Data%20Analyst%20Growing%20Into%20Data%20Science%20and%20AI&descAlignY=58&descSize=17" width="100%" />
 
 <br/>
 
