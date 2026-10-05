@@ -1,56 +1,62 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=180&text=Hi%2C%20I'm%20Asish%20Bose%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=CS%20Undergraduate%20%E2%80%A2%20Software%20Developer%20%26%20Data%20Analyst&descAlignY=68&descSize=15&descColor=58A6FF" width="100%" alt="Header Banner" />
+<!-- Hero Banner (100% Reliable Local SVG) -->
+<img src="./assets/header.svg" width="100%" alt="Asish Bose - Header Banner" />
+
+<br/><br/>
 
 <!-- Dynamic Typing Headline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=21&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=CS+Undergraduate+%E2%80%A2+Techno+India+University+(2023%E2%80%932027);1st+Runner-Up+%E2%80%94+AI+Unleashed+Season+4+(NIVARA);100%2B+LeetCode+Problems+Solved;Python+%E2%80%A2+React.js+%E2%80%A2+FastAPI+%E2%80%A2+SQL+%E2%80%A2+Microsoft+Excel;Intelligent+Decision-Support+Platforms+%E2%80%A2+Data+Dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=CS+Undergraduate+%E2%80%A2+Techno+India+University+(2023%E2%80%932027);1st+Runner-Up+%E2%80%94+AI+Unleashed+Season+4+(NIVARA);100%2B+LeetCode+Problems+Solved;Python+%E2%80%A2+React.js+%E2%80%A2+FastAPI+%E2%80%A2+SQL+%E2%80%A2+Microsoft+Excel;Intelligent+Decision-Support+Platforms+%E2%80%A2+Data+Dashboards" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- Contact & Profile Badges -->
-<a href="mailto:asishbose313@gmail.com">
-  <img src="https://img.shields.io/badge/Email-asishbose313%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/asish-bose-828b80321/">
-  <img src="https://img.shields.io/badge/LinkedIn-Asish%20Bose-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://github.com/Asish2404">
-  <img src="https://img.shields.io/badge/GitHub-Asish2404-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/Asish2404">
-  <img src="https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-
-<br/><br/>
+<p align="center">
+  <a href="mailto:asishbose313@gmail.com">
+    <img src="https://img.shields.io/badge/Email-asishbose313%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/asish-bose-828b80321/">
+    <img src="https://img.shields.io/badge/LinkedIn-Asish%20Bose-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Asish2404">
+    <img src="https://img.shields.io/badge/GitHub-Asish2404-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/Asish2404">
+    <img src="https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
 <!-- Status Pills -->
-<img src="https://komarev.com/ghpvc/?username=Asish2404&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-&nbsp;
-<img src="https://img.shields.io/badge/CGPA-9.13%20%2F%2010.0-2ea44f?style=flat-square&logo=academia&logoColor=white" alt="CGPA" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Software_Dev_%26_Data_Analytics-blueviolet?style=flat-square&logo=target&logoColor=white" alt="Focus" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Asish2404&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CGPA-9.13%20%2F%2010.0-2ea44f?style=flat-square&logo=academia&logoColor=white" alt="CGPA" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Software_Dev_%26_Data_Analytics-blueviolet?style=flat-square&logo=target&logoColor=white" alt="Focus" />
+</p>
 
-<br/><br/>
+<br/>
 
-<!-- Quick Navigation -->
-<code><a href="#-about-me">About Me</a></code> •
-<code><a href="#-achievements--honors">Achievements</a></code> •
-<code><a href="#%EF%B8%8F-technical-skills">Skills</a></code> •
-<code><a href="#-featured-projects">Projects</a></code> •
-<code><a href="#-certifications--virtual-experience">Certifications</a></code> •
-<code><a href="#-education">Education</a></code> •
-<code><a href="#-github-insights--analytics">GitHub Stats</a></code> •
-<code><a href="#-connect-with-me">Connect</a></code>
+<!-- Quick Navigation Bar -->
+<p align="center">
+  <code><a href="#-about-me">About Me</a></code> •
+  <code><a href="#-achievements--honors">Achievements</a></code> •
+  <code><a href="#%EF%B8%8F-technical-skills">Skills</a></code> •
+  <code><a href="#-featured-projects">Projects</a></code> •
+  <code><a href="#-certifications--virtual-experience">Certifications</a></code> •
+  <code><a href="#-education">Education</a></code> •
+  <code><a href="#-github-insights--analytics">GitHub Stats</a></code> •
+  <code><a href="#-connect-with-me">Connect</a></code>
+</p>
 
 </div>
 
@@ -511,7 +517,7 @@
 
 <br/>
 
-## 📊 GitHub Insights & Coding Analytics
+## 📊 GitHub Insights & Analytics
 
 <div align="center">
 
@@ -618,8 +624,8 @@
 
 <br/>
 
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,50:203A43,100:0F2027&height=70&width=100%" width="100%" alt="Footer Banner" />
+<!-- Footer Banner (Local SVG) -->
+<img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
