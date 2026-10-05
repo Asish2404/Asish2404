@@ -5,14 +5,14 @@
 
 <br/><br/>
 
-<!-- Dynamic Typing Headline -->
+<!-- Dynamic Typing Headline Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Development+%E2%80%A2+Data+Analytics+%E2%80%A2+IoT;1st+Runner-Up+%40+AI+Unleashed+Season+4+(NIVARA);100%2B+LeetCode+Problems+Solved;Python+%E2%80%A2+React.js+%E2%80%A2+FastAPI+%E2%80%A2+SQL+%E2%80%A2+Microsoft+Excel;Turning+Complex+Data+into+Actionable+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Development+%E2%80%A2+Data+Analytics+%E2%80%A2+IoT;1st+Runner-Up+%40+AI+Unleashed+Season+4+(NIVARA);100%2B+LeetCode+Problems+Solved;Python+%E2%80%A2+React.js+%E2%80%A2+FastAPI+%E2%80%A2+SQL+%E2%80%A2+Microsoft+Excel;Turning+Complex+Data+into+Actionable+Intelligence" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Social & Professional Portals -->
+<!-- Social & Contact Dock -->
 <p align="center">
   <a href="mailto:asishbose313@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-asishbose313%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-<!-- Quick Status Pills -->
+<!-- Live Telemetry Status Pills -->
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-1f425f?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   &nbsp;
@@ -39,7 +39,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/CGPA-9.13%20%2F%2010.0-2ea44f?style=flat-square" alt="CGPA" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-8a2be2?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Actively_Seeking_Internships-success?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Asish2404&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
 </p>
@@ -50,6 +50,7 @@
 <p align="center">
   <code><a href="#-about-me">About Me</a></code> &nbsp;•&nbsp;
   <code><a href="#-key-achievements">Achievements</a></code> &nbsp;•&nbsp;
+  <code><a href="#%EF%B8%8F-core-engineering-pillars">Pillars</a></code> &nbsp;•&nbsp;
   <code><a href="#%EF%B8%8F-technical-arsenal">Skills</a></code> &nbsp;•&nbsp;
   <code><a href="#-featured-projects">Projects</a></code> &nbsp;•&nbsp;
   <code><a href="#-certifications--experience">Certifications</a></code> &nbsp;•&nbsp;
@@ -74,7 +75,7 @@
       <br/>
       <img src="https://img.shields.io/badge/Hackathon-1st_Runner--Up-C0C0C0?style=for-the-badge&logo=codementor&logoColor=white" />
       <br/><br/>
-      <b>AI Unleashed Season 4, 2026</b><br/>
+      <b>AI Unleashed Season 4</b><br/>
       <sub>Team PanchaBhuj • NIVARA Platform</sub>
     </td>
     <td width="25%" align="center" valign="top">
@@ -140,6 +141,45 @@
 
 <br/>
 
+## ⚡ Core Engineering Pillars
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Full-Stack Web Engineering</h4>
+      <p>
+        Architecting responsive, high-performance web applications using <b>React.js</b>, <b>Tailwind CSS</b>, and <b>Three.js</b> on the frontend, paired with scalable, asynchronous REST APIs built on <b>FastAPI</b>.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Data Intelligence &amp; BI Analytics</h4>
+      <p>
+        Transforming raw tabular datasets into executive business intelligence through advanced <b>SQL</b> querying, <b>Power Query ETL</b>, dynamic <b>Pivot Tables/Charts</b>, and interactive <b>Slicers</b>.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Intelligent Decision-Support Systems</h4>
+      <p>
+        Developing simulation engines and geospatial visualizations for civic and enterprise decision-making, such as modeling urban waterlogging risk and coordinating emergency incident response.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ IoT &amp; Embedded Telemetry</h4>
+      <p>
+        Prototyping end-to-end hardware-software systems with <b>ESP32</b> microcontrollers, integrating <b>RFID</b> contactless scanning, <b>GPS</b> real-time location telemetry, and database sync.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
 ## 🏆 Key Achievements
 
 <table>
@@ -172,7 +212,7 @@
         <sub>National Innovation Initiative</sub>
       </td>
       <td>
-        Qualified through the rigorous university internal selection round with <b>Team SoroBhuj</b> for public sector innovation.
+        Qualified through the competitive university internal selection round with <b>Team SoroBhuj</b> for public sector innovation.
       </td>
     </tr>
     <tr>
@@ -216,7 +256,7 @@
 
 <br/>
 
-### 🎨 Frontend Development
+### 🎨 Frontend Engineering
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,threejs&theme=dark" alt="Frontend" />
 </a>
