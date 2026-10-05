@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Hero Banner (High-Resolution Custom Artwork) -->
-<img src="./assets/banner.jpg" width="100%" style="border-radius: 14px; box-shadow: 0 12px 36px rgba(0,0,0,0.6);" alt="Asish Bose - Developer Portfolio Banner" />
+<!-- Hero Banner (High-Resolution Custom Artwork - Globally Hosted CDN) -->
+<img src="https://iili.io/n0Dme2I.jpg" width="100%" alt="Asish Bose - Computer Science • Data Analytics • Software Engineering" />
 
 <br/><br/>
 
