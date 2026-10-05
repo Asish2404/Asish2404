@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Asish%20Bose%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20Undergraduate%20•%20Software%20Developer%20%26%20Data%20Analyst&descAlignY=58&descSize=16&descColor=58A6FF" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=180&text=Hi%2C%20I'm%20Asish%20Bose%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=CS%20Undergraduate%20%E2%80%A2%20Software%20Developer%20%26%20Data%20Analyst&descAlignY=68&descSize=15&descColor=58A6FF" width="100%" alt="Header Banner" />
 
 <!-- Dynamic Typing Headline -->
 <a href="https://git.io/typing-svg">
@@ -618,8 +618,8 @@
 
 <br/>
 
-<!-- Footer Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&width=100%" width="100%" alt="Footer Banner" />
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,50:203A43,100:0F2027&height=70&width=100%" width="100%" alt="Footer Banner" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
