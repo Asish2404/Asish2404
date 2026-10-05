@@ -1,51 +1,54 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Asish%20Bose%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Data%20Analyst%20•%20B.Tech%20CSE%20Student&descAlignY=58&descSize=16&descColor=58A6FF" width="100%" alt="Header Banner" />
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Asish%20Bose%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20Undergraduate%20•%20Software%20Developer%20%26%20Data%20Analyst&descAlignY=58&descSize=16&descColor=58A6FF" width="100%" alt="Header Banner" />
 
 <!-- Dynamic Typing Headline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=21&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;SQL+%E2%80%A2+Microsoft+Excel+%E2%80%A2+Python+%E2%80%A2+Power+BI+(Learning);Data+Cleaning+%E2%80%A2+Transformation+%E2%80%A2+Business+Reporting;React.js+%E2%80%A2+Tailwind+CSS+%E2%80%A2+FastAPI+(Basic)+%E2%80%A2+REST+APIs+(Basic);B.Tech+CSE+Student+at+Techno+India+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=21&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=CS+Undergraduate+%E2%80%A2+Techno+India+University+(2023%E2%80%932027);1st+Runner-Up+%E2%80%94+AI+Unleashed+Season+4+(NIVARA);100%2B+LeetCode+Problems+Solved;Python+%E2%80%A2+React.js+%E2%80%A2+FastAPI+%E2%80%A2+SQL+%E2%80%A2+Microsoft+Excel;Intelligent+Decision-Support+Platforms+%E2%80%A2+Data+Dashboards" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Contact & Social Badges -->
-<p align="center">
-  <a href="mailto:asishbose313@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asishbose313%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/asish-bose-828b80321/">
-    <img src="https://img.shields.io/badge/LinkedIn-Asish%20Bose-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Asish2404">
-    <img src="https://img.shields.io/badge/GitHub-Asish2404-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<!-- Contact & Profile Badges -->
+<a href="mailto:asishbose313@gmail.com">
+  <img src="https://img.shields.io/badge/Email-asishbose313%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/asish-bose-828b80321/">
+  <img src="https://img.shields.io/badge/LinkedIn-Asish%20Bose-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/Asish2404">
+  <img src="https://img.shields.io/badge/GitHub-Asish2404-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/Asish2404">
+  <img src="https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
 
-<!-- Profile Views & Activity Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asish2404&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Target_Role-Data%20Analyst-blueviolet?style=flat-square&logo=target&logoColor=white" alt="Target Role" />
-</p>
+<br/><br/>
 
-<br/>
+<!-- Status Pills -->
+<img src="https://komarev.com/ghpvc/?username=Asish2404&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+&nbsp;
+<img src="https://img.shields.io/badge/CGPA-9.13%20%2F%2010.0-2ea44f?style=flat-square&logo=academia&logoColor=white" alt="CGPA" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Software_Dev_%26_Data_Analytics-blueviolet?style=flat-square&logo=target&logoColor=white" alt="Focus" />
 
-<!-- Quick Navigation Bar -->
+<br/><br/>
+
+<!-- Quick Navigation -->
 <code><a href="#-about-me">About Me</a></code> •
-<code><a href="#-highlights--at-a-glance">Highlights</a></code> •
-<code><a href="#-education">Education</a></code> •
-<code><a href="#%EF%B8%8F-tech-stack">Tech Stack</a></code> •
+<code><a href="#-achievements--honors">Achievements</a></code> •
+<code><a href="#%EF%B8%8F-technical-skills">Skills</a></code> •
 <code><a href="#-featured-projects">Projects</a></code> •
-<code><a href="#-virtual-experiences--job-simulations">Experiences</a></code> •
-<code><a href="#-certifications">Certifications</a></code> •
+<code><a href="#-certifications--virtual-experience">Certifications</a></code> •
+<code><a href="#-education">Education</a></code> •
 <code><a href="#-github-insights--analytics">GitHub Stats</a></code> •
 <code><a href="#-connect-with-me">Connect</a></code>
 
@@ -57,33 +60,25 @@
 
 <br/>
 
-## ⚡ Highlights & At A Glance
+## ⚡ Highlights At A Glance
 
 <table width="100%">
   <tr>
     <td width="25%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/Domain-Data_Analytics-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white" /><br/><br/>
-      <b>Core Analytics</b><br/>
-      <sub>SQL • Excel • Power BI<br/>Data Cleaning & Business Reporting</sub>
+      <h4>🏆 Hackathon Winner</h4>
+      <p><b>1st Runner-Up</b><br/><sub>AI Unleashed Season 4, 2026<br/>Team PanchaBhuj (NIVARA)</sub></p>
     </td>
     <td width="25%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/Programming-Python_%26_SQL-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><br/>
-      <b>Technical Skills</b><br/>
-      <sub>Python • C++ • Java • JS<br/>Data Manipulation & Logic</sub>
+      <h4>🧩 Problem Solver</h4>
+      <p><b>100+ Solved</b><br/><sub>LeetCode DSA Challenges<br/>Python • C++ • Java</sub></p>
     </td>
     <td width="25%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/Academics-9.13_CGPA-2EA44F?style=for-the-badge&logo=academia&logoColor=white" /><br/><br/>
-      <b>Academic Standing</b><br/>
-      <sub>Final Year B.Tech CSE<br/>Techno India University</sub>
+      <h4>🎓 Academic Excellence</h4>
+      <p><b>9.13 CGPA</b><br/><sub>B.Tech CSE (2023 – 2027)<br/>Techno India University</sub></p>
     </td>
     <td width="25%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/Role-Open_To_Work-8A2BE2?style=for-the-badge&logo=target&logoColor=white" /><br/><br/>
-      <b>Career Objective</b><br/>
-      <sub>Data Analyst Internships<br/>& Entry-Level Opportunities</sub>
+      <h4>☁️ Cloud Certified</h4>
+      <p><b>Microsoft Azure</b><br/><sub>AZ-900 Fundamentals<br/>Certified Professional</sub></p>
     </td>
   </tr>
 </table>
@@ -100,27 +95,24 @@
   <tr>
     <td width="64%" valign="top">
       <p>
-        I am a final-year <b>B.Tech Computer Science & Engineering</b> student at <b>Techno India University, West Bengal</b> (CGPA: <b>9.13</b>), aspiring to build an impactful career as a <b>Data Analyst</b>.
+        I am a <b>Computer Science undergraduate</b> at <b>Techno India University, West Bengal</b> (2023 – 2027, CGPA: <b>9.13</b>), with hands-on experience in <b>software development</b>, <b>frontend engineering</b>, <b>IoT systems</b>, and <b>data analytics</b>.
       </p>
       <p>
-        I specialize in extracting actionable business insights from raw numbers. I possess hands-on proficiency in <b>SQL</b>, <b>Microsoft Excel</b>, and <b>Python</b>, with practical experience in <b>ETL workflows</b>, <b>data cleaning</b>, <b>transformation</b>, and <b>analytical problem-solving</b>. I am currently expanding into <b>Power BI</b> for advanced business intelligence dashboarding.
-      </p>
-      <p>
-        Additionally, my background in computer science equips me with strong programming fundamentals, experience with <b>React.js</b> frontend development, and basic backend development with <b>FastAPI</b> and <b>REST APIs</b>.
+        Skilled in <b>Python</b>, <b>Java</b>, <b>JavaScript</b>, <b>React.js</b>, <b>FastAPI</b>, <b>SQL</b>, and <b>Microsoft Excel</b>, with <b>100+ LeetCode problems solved</b>. Experienced in architecting interactive web applications, intelligent decision-support platforms, REST APIs, and data-driven dashboards.
       </p>
       <ul>
-        <li>🎓 <b>Education:</b> Final Year B.Tech in CSE, Techno India University (CGPA: <b>9.13 / 10.0</b>)</li>
-        <li>🎯 <b>Primary Focus:</b> Data Analytics & Business Intelligence (SQL, Excel, Python, Power BI)</li>
-        <li>📊 <b>Core Analytics:</b> Data Cleaning, Power Query, Pivot Tables, Pivot Charts, Slicers & KPI Reports</li>
-        <li>💻 <b>Software Fundamentals:</b> React.js, Tailwind CSS, FastAPI (Basic), REST APIs (Basic)</li>
-        <li>🌱 <b>Currently Learning:</b> Power BI for dashboarding & advanced DAX queries</li>
-        <li>⚡ <b>Core Philosophy:</b> <i>"Data is more than numbers — it tells stories, drives decisions, and unlocks opportunities."</i></li>
+        <li>🎓 <b>Degree:</b> B.Tech in Computer Science and Engineering, Techno India University (2023 – 2027)</li>
+        <li>📍 <b>Location:</b> Kolkata, West Bengal, India</li>
+        <li>💡 <b>Core Competencies:</b> Full-Stack Development, Decision-Support Systems, IoT Prototyping & BI Dashboards</li>
+        <li>📊 <b>Data & Analytics:</b> SQL, Excel, Power Query, Pivot Tables/Charts, Slicers, Data Cleaning & Transformation</li>
+        <li>🌱 <b>Continuous Growth:</b> Solving DSA on LeetCode & building production-grade full-stack applications</li>
+        <li>⚡ <b>Philosophy:</b> <i>"Transforming complex data and algorithms into intuitive, human-centered digital solutions."</i></li>
       </ul>
     </td>
     <td width="36%" align="center" valign="middle">
-      <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=480&q=80" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.35);" alt="Data Analytics Visual" />
+      <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=480&q=80" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.35);" alt="Analytics and Development" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/Passionate_About-Data_Driven_Decisions-58A6FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Open_To-Internships_%26_Collaborations-0A66C2?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -131,23 +123,52 @@
 
 <br/>
 
-## 🎓 Education
+## 🏆 Achievements & Honors
 
 <table>
   <thead>
     <tr>
-      <th width="45%" align="left">Degree / Program</th>
-      <th width="35%" align="left">Institution</th>
-      <th width="10%" align="center">Duration</th>
-      <th width="10%" align="center">CGPA</th>
+      <th width="15%" align="center">Award / Honor</th>
+      <th width="45%" align="left">Event & Initiative</th>
+      <th width="40%" align="left">Details & Project</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>B.Tech in Computer Science and Engineering</b></td>
-      <td>Techno India University, West Bengal</td>
-      <td align="center">2023 – Present</td>
-      <td align="center"><b>9.13 / 10.0</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/1st_Runner--Up-Silver-C0C0C0?style=for-the-badge&logo=codementor&logoColor=white" />
+      </td>
+      <td>
+        <b>AI Unleashed Season 4, 2026</b><br/>
+        <sub>Organized Innovation Hackathon</sub>
+      </td>
+      <td>
+        Secured <b>1st Runner-Up</b> with <b>Team PanchaBhuj</b> for <b>NIVARA</b>, an AI-powered municipal urban waterlogging decision-support platform for Kolkata.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Qualified-SIH-FF9933?style=for-the-badge&logo=target&logoColor=white" />
+      </td>
+      <td>
+        <b>Smart India Hackathon (SIH) Internal Round</b><br/>
+        <sub>National Level Hackathon Selection</sub>
+      </td>
+      <td>
+        Qualified through the rigorous university internal round with <b>Team SoroBhuj</b> for innovative problem solving.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/100%2B_Solved-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+      </td>
+      <td>
+        <b>Algorithmic Problem Solving</b><br/>
+        <sub>Data Structures & Algorithms</sub>
+      </td>
+      <td>
+        Solved <b>100+ problems on LeetCode</b> across arrays, strings, trees, hashing, and dynamic programming in Python, C++, and Java.
+      </td>
     </tr>
   </tbody>
 </table>
@@ -158,87 +179,79 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h4>📊 Data Analytics & Business Intelligence</h4>
-        <p>
-          <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-          <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-          <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Power Query" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Pivot_Tables_%26_Charts-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Pivot Tables" />
-          <img src="https://img.shields.io/badge/Slicers-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Slicers" />
-          <img src="https://img.shields.io/badge/Power_BI_(Learning)-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h4>💻 Programming & Scripting Languages</h4>
-        <br/>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=dark" alt="Languages" />
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h4>🗄️ Relational Databases & Storage</h4>
-        <br/>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases" />
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Relational_DB_Design-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-        <img src="https://img.shields.io/badge/Query_Optimization-232F3E?style=flat-square&logo=datagrip&logoColor=white" alt="Queries" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h4>🌐 Web Engineering & Backend APIs</h4>
-        <br/>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Web Dev" />
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/FastAPI_(Basic)-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/REST_APIs-0A66C2?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <div align="center">
-        <h4>🔧 Developer Tools, Version Control & Environment</h4>
-        <br/>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-</table>
+### 💻 Programming & Query Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&theme=dark" alt="Languages" />
+</a>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+<br/>
+
+### 🎨 Frontend Engineering
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,threejs&theme=dark" alt="Frontend" />
+</a>
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+</p>
+
+<br/>
+
+### ⚙️ Backend Engineering & APIs
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi,postman&theme=dark" alt="Backend" />
+</a>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-0A66C2?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Integration-232F3E?style=flat-square&logo=swagger&logoColor=white" />
+</p>
+
+<br/>
+
+### 📊 Data & Business Analytics
+<p>
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Power Query" />
+  <img src="https://img.shields.io/badge/Pivot_Tables_%26_Charts-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Pivot Tables" />
+  <img src="https://img.shields.io/badge/Slicers-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Slicers" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Data_Cleaning-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Transformation-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dashboard_Development-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
+
+<br/>
+
+### 🗄️ Databases, Hardware & Developer Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="Databases and Tools" />
+</a>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32_(IoT)-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
 
 </div>
 
@@ -253,27 +266,117 @@
 <table>
   <thead>
     <tr>
-      <th width="48%">Project & Description</th>
-      <th width="32%">Key Highlights</th>
-      <th width="20%">Tech & Action</th>
+      <th width="46%">Project & Overview</th>
+      <th width="34%">Key Highlights & Impact</th>
+      <th width="20%">Tech Stack</th>
     </tr>
   </thead>
   <tbody>
-    <!-- Project 1 -->
+    <!-- Project 1: NIVARA -->
     <tr>
       <td valign="top">
-        <h3>📊 Sales Performance Dashboard</h3>
-        <p><img src="https://img.shields.io/badge/Domain-Data_Analytics_%26_BI-0A66C2?style=flat-square" /></p>
+        <h3>🌊 NIVARA — AI-Powered Urban Waterlogging Decision-Support Platform</h3>
         <p>
-          Built an interactive sales dashboard in Microsoft Excel for strategic business reporting. Cleaned and transformed raw sales datasets using Power Query, delivering actionable KPIs through Pivot Tables, Pivot Charts, Slicers, and Excel analytical formulas.
+          <img src="https://img.shields.io/badge/1st_Runner--Up-AI_Unleashed_S4-C0C0C0?style=flat-square&logo=codementor" />
+        </p>
+        <p>
+          An AI-powered municipal decision-support platform designed to monitor urban waterlogging, rainfall patterns, drainage infrastructure, and active ground incidents across Kolkata in real time.
         </p>
       </td>
       <td valign="top">
         <ul>
-          <li>Interactive KPI sales performance tracking</li>
-          <li>Automated data cleaning & ETL with Power Query</li>
-          <li>Dynamic Pivot Tables & Pivot Charts</li>
-          <li>Cross-filtered interactive Slicers</li>
+          <li>Interactive geospatial visualizations & smart-city administrator dashboard</li>
+          <li>Real-time incident monitoring & municipal emergency coordination</li>
+          <li>Deterministic simulation engine modeling waterlogging scenarios to evaluate intervention effectiveness</li>
+          <li>Award-winning civic tech innovation</li>
+        </ul>
+      </td>
+      <td valign="top" align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/AI_Simulation-8A2BE2?style=flat-square" /><br/><br/>
+        <a href="https://github.com/Asish2404">
+          <img src="https://img.shields.io/badge/View-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <!-- Project 2: CodeVision -->
+    <tr>
+      <td valign="top">
+        <h3>💡 CodeVision — Interactive DSA Learning Platform</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Status-Active_Development-blue?style=flat-square" />
+        </p>
+        <p>
+          A full-stack learning platform for Data Structures and Algorithms featuring dynamic step-by-step algorithm visualizers, interactive execution controls, and structured learning roadmaps.
+        </p>
+      </td>
+      <td valign="top">
+        <ul>
+          <li>Full-stack architecture with React.js frontend & FastAPI backend REST APIs</li>
+          <li>Step-by-step algorithm execution with interactive Next/Previous controls</li>
+          <li>Dynamic visualization of arrays, trees, graphs, and algorithmic logic</li>
+          <li>Hands-on learning modules with contextual code walkthroughs</li>
+        </ul>
+      </td>
+      <td valign="top" align="center">
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/REST_APIs-0A66C2?style=flat-square&logo=postman&logoColor=white" /><br/><br/>
+        <a href="https://github.com/Asish2404">
+          <img src="https://img.shields.io/badge/Repo-Coming_Soon-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <!-- Project 3: TapNRide -->
+    <tr>
+      <td valign="top">
+        <h3>🚌 TapNRide — IoT-Based Smart Bus Fare Deduction System</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Domain-IoT_%26_Embedded_Systems-E7352C?style=flat-square" />
+        </p>
+        <p>
+          An automated public transit ticketing and smart mobility system integrating hardware microcontrollers with web backends for seamless, contactless transit management.
+        </p>
+      </td>
+      <td valign="top">
+        <ul>
+          <li>Hardware integration with ESP32, RFID card reader, GPS module & LCD display</li>
+          <li>Automated contactless fare deduction & digital ticketing workflows</li>
+          <li>FastAPI backend workflows & MySQL database for secure transit logging</li>
+          <li>Real-time GPS vehicle location tracking for commuter status updates</li>
+        </ul>
+      </td>
+      <td valign="top" align="center">
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/RFID-4B8BBE?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/GPS-2E8B57?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/><br/>
+        <a href="https://github.com/Asish2404">
+          <img src="https://img.shields.io/badge/IoT_Prototype-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <!-- Project 4: Sales Performance Dashboard -->
+    <tr>
+      <td valign="top">
+        <h3>📊 Sales Performance Dashboard</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Domain-Data_Analytics_%26_BI-217346?style=flat-square" />
+        </p>
+        <p>
+          An interactive business intelligence and executive reporting dashboard built in Microsoft Excel to uncover strategic revenue trends and product performance metrics.
+        </p>
+      </td>
+      <td valign="top">
+        <ul>
+          <li>End-to-end data cleaning & ETL transformation using Power Query</li>
+          <li>Dynamic Pivot Tables, Pivot Charts, and custom Excel KPI formulas</li>
+          <li>Interactive cross-filtering via Slicers for granular drill-downs</li>
+          <li>Actionable insights on regional trends, sales reps, and product profitability</li>
         </ul>
       </td>
       <td valign="top" align="center">
@@ -286,84 +389,6 @@
         </a>
       </td>
     </tr>
-    <!-- Project 2 -->
-    <tr>
-      <td valign="top">
-        <h3>🚌 Smart Bus Fare Deduction System</h3>
-        <p><img src="https://img.shields.io/badge/Domain-IoT_%26_Smart_Mobility-E7352C?style=flat-square" /></p>
-        <p>
-          Developed a smart public transportation ticketing prototype using ESP32 microcontroller and web technologies. Designed automated fare deduction and ticket management logic with real-time GPS tracking for digital public transit management.
-        </p>
-      </td>
-      <td valign="top">
-        <ul>
-          <li>Contactless RFID smart ticketing card reader</li>
-          <li>Automated distance-based fare deduction</li>
-          <li>Web-based ticket & user management dashboard</li>
-          <li>Real-time vehicle GPS coordination</li>
-        </ul>
-      </td>
-      <td valign="top" align="center">
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/RFID-4B8BBE?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/GPS-2E8B57?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/Web_Tech-181717?style=flat-square" /><br/><br/>
-        <a href="https://github.com/Asish2404">
-          <img src="https://img.shields.io/badge/IoT_Prototype-View_Profile-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <!-- Project 3 -->
-    <tr>
-      <td valign="top">
-        <h3>📈 Quantitative Finance Model for Market Prediction</h3>
-        <p><img src="https://img.shields.io/badge/Domain-Financial_Analytics_%26_ML-3776AB?style=flat-square" /></p>
-        <p>
-          Building a quantitative finance prediction model using historical market data. Performing exploratory data analysis, feature engineering, and strategy evaluation using Python, collaborating in an agile team to improve prediction metrics.
-        </p>
-      </td>
-      <td valign="top">
-        <ul>
-          <li>Historical market data extraction & cleansing</li>
-          <li>Trading strategy evaluation in Python</li>
-          <li>Statistical trend analysis & visualization</li>
-          <li>Final Year Capstone Team Project</li>
-        </ul>
-      </td>
-      <td valign="top" align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Status-Ongoing_Capstone-blue?style=flat-square" />
-      </td>
-    </tr>
-    <!-- Project 4 -->
-    <tr>
-      <td valign="top">
-        <h3>💡 CodeVision — Interactive DSA Learning Platform</h3>
-        <p><img src="https://img.shields.io/badge/Domain-EdTech_%26_Web_Engineering-61DAFB?style=flat-square" /></p>
-        <p>
-          Developing an interactive web platform designed for learning Data Structures and Algorithms. Building a responsive frontend in React.js paired with a FastAPI backend, implementing visual algorithm simulations and step-by-step concept tutorials.
-        </p>
-      </td>
-      <td valign="top">
-        <ul>
-          <li>Interactive step-by-step algorithm visualizer</li>
-          <li>Curated DSA learning roadmap modules</li>
-          <li>Modern responsive React.js interface</li>
-          <li>FastAPI REST API integration</li>
-        </ul>
-      </td>
-      <td valign="top" align="center">
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/Status-Active_Development-blue?style=flat-square" /><br/><br/>
-        <a href="https://github.com/Asish2404">
-          <img src="https://img.shields.io/badge/Repo-Coming_Soon-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -373,31 +398,58 @@
 
 <br/>
 
-## 💼 Virtual Experiences & Job Simulations
+## 📜 Certifications & Virtual Experience
 
 <table>
   <thead>
     <tr>
-      <th width="42%" align="left">Program / Experience</th>
-      <th width="28%" align="left">Organization</th>
-      <th width="30%" align="left">Key Focus Area</th>
+      <th width="45%" align="left">Certification / Program</th>
+      <th width="30%" align="left">Issuing Organization</th>
+      <th width="25%" align="center">Credential / Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Data Analytics Job Simulation</b></td>
-      <td><img src="https://img.shields.io/badge/Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white" /> <b>Deloitte (Forage)</b></td>
-      <td>Data Analytics, Dashboarding & Business Case Analysis</td>
+      <td><b>Microsoft Certified: Azure Fundamentals (AZ-900)</b></td>
+      <td>Microsoft</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Certified-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      </td>
     </tr>
     <tr>
-      <td><b>AI & ML Virtual Internship</b></td>
-      <td><img src="https://img.shields.io/badge/AICTE-Eduskills-FF6F00?style=flat-square" /> <b>AICTE Eduskills</b></td>
-      <td>Machine Learning Foundations & Data Preprocessing</td>
+      <td><b>Data Analytics Job Simulation</b></td>
+      <td>Deloitte (Forage)</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Completed-Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>SQL (Intermediate)</b></td>
+      <td>HackerRank</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Verified-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>SQL (Basic)</b></td>
+      <td>HackerRank</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Verified-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+      </td>
     </tr>
     <tr>
       <td><b>AI & Machine Learning Virtual Internship</b></td>
-      <td><img src="https://img.shields.io/badge/IBM-SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white" /> <b>IBM SkillsBuild</b></td>
-      <td>AI Architectures, Models & Analytical Problem Solving</td>
+      <td>IBM SkillsBuild</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Completed-IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Data Analytics</b></td>
+      <td>TuteDude</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square" />
+      </td>
     </tr>
   </tbody>
 </table>
@@ -408,17 +460,32 @@
 
 <br/>
 
-## 📜 Certifications
+## 🎓 Education
 
-<div align="center">
-
-| Certification Name | Issuing Organization | Core Focus Domain | Verification |
-| :--- | :--- | :--- | :---: |
-| **SQL (Intermediate)** | HackerRank | Complex Queries, Joins, Aggregations & Subqueries | <img src="https://img.shields.io/badge/Verified-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /> |
-| **SQL (Basic)** | HackerRank | Relational Database Fundamentals & Filtering | <img src="https://img.shields.io/badge/Verified-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /> |
-| **Python Development** | Pinnacle Labs | Python Syntax, OOP & Modular Development | <img src="https://img.shields.io/badge/Certified-Pinnacle_Labs-3776AB?style=flat-square" /> |
-
-</div>
+<table>
+  <thead>
+    <tr>
+      <th width="45%" align="left">Degree & Major</th>
+      <th width="35%" align="left">Institution</th>
+      <th width="10%" align="center">Duration</th>
+      <th width="10%" align="center">CGPA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>B.Tech in Computer Science and Engineering</b><br/>
+        <sub>Undergraduate Program</sub>
+      </td>
+      <td>
+        <b>Techno India University</b><br/>
+        <sub>Kolkata, West Bengal, India</sub>
+      </td>
+      <td align="center"><b>2023 – 2027</b></td>
+      <td align="center"><b>9.13 / 10.0</b></td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
@@ -430,11 +497,11 @@
 
 <div align="center">
 
-| Language | Proficiency Level | Capability |
+| Language | Proficiency Level | Capabilities |
 | :--- | :--- | :--- |
-| 🇬🇧 **English** | Professional Working Proficiency | Technical documentation, team communication & reporting |
-| 🇮🇳 **Hindi** | Professional Working Proficiency | Fluent professional & interpersonal dialogue |
-| 🇮🇳 **Bengali** | Native Proficiency | First-language proficiency |
+| 🇬🇧 **English** | Professional Working Proficiency | Technical documentation, reporting & team collaboration |
+| 🇮🇳 **Hindi** | Professional Working Proficiency | Professional conversations & interpersonal communication |
+| 🇮🇳 **Bengali** | Native Proficiency | Native fluency & primary language |
 
 </div>
 
@@ -444,11 +511,11 @@
 
 <br/>
 
-## 📊 GitHub Insights & Analytics
+## 📊 GitHub Insights & Coding Analytics
 
 <div align="center">
 
-<!-- GitHub Stats & Top Languages Cards -->
+<!-- Side-by-Side GitHub Stats & Languages -->
 <table border="0">
   <tr>
     <td align="center" width="50%" valign="top">
@@ -466,6 +533,16 @@
 
 <br/>
 
+<!-- LeetCode Interactive Stats Card -->
+<p align="center">
+  <b>🧩 LeetCode Problem Solving Stats</b>
+</p>
+<a href="https://leetcode.com/Asish2404">
+  <img src="https://leetcard.jacoblin.cool/Asish2404?theme=dark&font=Ubuntu" alt="LeetCode Stats" width="460" />
+</a>
+
+<br/><br/>
+
 <!-- 365-Day Contribution Heatmap Graph -->
 <p align="center">
   <b>📈 365-Day Contribution Activity Graph</b>
@@ -474,12 +551,12 @@
 
 <br/><br/>
 
-<!-- Developer Inspiration Quote Banner -->
+<!-- Tech Quote Banner -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" width="100%" />
 
 <br/><br/>
 
-<!-- Contribution Snake Animation (Auto-Generated via GitHub Action) -->
+<!-- Contribution Snake Dropdown -->
 <details>
   <summary><b>🐍 View Contribution Snake Animation</b></summary>
   <br/>
@@ -503,7 +580,8 @@
 <div align="center">
 
 <p>
-  I'm actively seeking <b>Data Analyst</b> internship and full-time opportunities. Whether you want to discuss a potential project, data collaboration, or technical problem — my inbox is always open!
+  I'm actively looking for opportunities in <b>Software Development</b>, <b>Frontend Engineering</b>, and <b>Data Analytics</b>.<br/>
+  Feel free to reach out for collaborations, discussions, or inquiries!
 </p>
 
 <br/>
@@ -514,6 +592,10 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/asish-bose-828b80321/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/Asish2404">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
 &nbsp;
 <a href="https://github.com/Asish2404">
