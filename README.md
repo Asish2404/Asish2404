@@ -1,21 +1,21 @@
 <div align="center">
 
-<!-- Hero Banner (100% Reliable Local SVG) -->
-<img src="./assets/header.svg" width="100%" alt="Asish Bose - Header Banner" />
+<!-- Hero Banner (High-Resolution Custom Artwork) -->
+<img src="./assets/banner.jpg" width="100%" style="border-radius: 14px; box-shadow: 0 12px 36px rgba(0,0,0,0.6);" alt="Asish Bose - Developer Portfolio Banner" />
 
 <br/><br/>
 
 <!-- Dynamic Typing Headline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=CS+Undergraduate+%E2%80%A2+Techno+India+University+(2023%E2%80%932027);1st+Runner-Up+%E2%80%94+AI+Unleashed+Season+4+(NIVARA);100%2B+LeetCode+Problems+Solved;Python+%E2%80%A2+React.js+%E2%80%A2+FastAPI+%E2%80%A2+SQL+%E2%80%A2+Microsoft+Excel;Intelligent+Decision-Support+Platforms+%E2%80%A2+Data+Dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Development+%E2%80%A2+Data+Analytics+%E2%80%A2+IoT;1st+Runner-Up+%40+AI+Unleashed+Season+4+(NIVARA);100%2B+LeetCode+Problems+Solved;Python+%E2%80%A2+React.js+%E2%80%A2+FastAPI+%E2%80%A2+SQL+%E2%80%A2+Microsoft+Excel;Turning+Complex+Data+into+Actionable+Intelligence" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Contact & Profile Badges -->
+<!-- Social & Professional Portals -->
 <p align="center">
   <a href="mailto:asishbose313@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asishbose313%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-asishbose313%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/asish-bose-828b80321/">
@@ -31,30 +31,30 @@
   </a>
 </p>
 
-<!-- Status Pills -->
+<!-- Quick Status Pills -->
 <p align="center">
+  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-1f425f?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Academics-B.Tech%20CSE%20(2023--2027)-0969da?style=flat-square&logo=academia&logoColor=white" alt="Academics" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CGPA-9.13%20%2F%2010.0-2ea44f?style=flat-square" alt="CGPA" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-8a2be2?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Asish2404&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-9.13%20%2F%2010.0-2ea44f?style=flat-square&logo=academia&logoColor=white" alt="CGPA" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Software_Dev_%26_Data_Analytics-blueviolet?style=flat-square&logo=target&logoColor=white" alt="Focus" />
 </p>
 
 <br/>
 
-<!-- Quick Navigation Bar -->
+<!-- Table of Contents Navigation -->
 <p align="center">
-  <code><a href="#-about-me">About Me</a></code> •
-  <code><a href="#-achievements--honors">Achievements</a></code> •
-  <code><a href="#%EF%B8%8F-technical-skills">Skills</a></code> •
-  <code><a href="#-featured-projects">Projects</a></code> •
-  <code><a href="#-certifications--virtual-experience">Certifications</a></code> •
-  <code><a href="#-education">Education</a></code> •
-  <code><a href="#-github-insights--analytics">GitHub Stats</a></code> •
+  <code><a href="#-about-me">About Me</a></code> &nbsp;•&nbsp;
+  <code><a href="#-key-achievements">Achievements</a></code> &nbsp;•&nbsp;
+  <code><a href="#%EF%B8%8F-technical-arsenal">Skills</a></code> &nbsp;•&nbsp;
+  <code><a href="#-featured-projects">Projects</a></code> &nbsp;•&nbsp;
+  <code><a href="#-certifications--experience">Certifications</a></code> &nbsp;•&nbsp;
+  <code><a href="#-education">Education</a></code> &nbsp;•&nbsp;
+  <code><a href="#-github-insights--coding-activity">Analytics</a></code> &nbsp;•&nbsp;
   <code><a href="#-connect-with-me">Connect</a></code>
 </p>
 
@@ -66,25 +66,37 @@
 
 <br/>
 
-## ⚡ Highlights At A Glance
+## ⚡ Executive Highlights
 
 <table width="100%">
   <tr>
     <td width="25%" align="center" valign="top">
-      <h4>🏆 Hackathon Winner</h4>
-      <p><b>1st Runner-Up</b><br/><sub>AI Unleashed Season 4, 2026<br/>Team PanchaBhuj (NIVARA)</sub></p>
+      <br/>
+      <img src="https://img.shields.io/badge/Hackathon-1st_Runner--Up-C0C0C0?style=for-the-badge&logo=codementor&logoColor=white" />
+      <br/><br/>
+      <b>AI Unleashed Season 4, 2026</b><br/>
+      <sub>Team PanchaBhuj • NIVARA Platform</sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>🧩 Problem Solver</h4>
-      <p><b>100+ Solved</b><br/><sub>LeetCode DSA Challenges<br/>Python • C++ • Java</sub></p>
+      <br/>
+      <img src="https://img.shields.io/badge/DSA-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+      <br/><br/>
+      <b>LeetCode Milestone</b><br/>
+      <sub>Data Structures &amp; Algorithms<br/>Python • C++ • Java</sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>🎓 Academic Excellence</h4>
-      <p><b>9.13 CGPA</b><br/><sub>B.Tech CSE (2023 – 2027)<br/>Techno India University</sub></p>
+      <br/>
+      <img src="https://img.shields.io/badge/Academics-9.13_CGPA-2EA44F?style=for-the-badge&logo=academia&logoColor=white" />
+      <br/><br/>
+      <b>B.Tech CSE (2023 – 2027)</b><br/>
+      <sub>Techno India University, Kolkata</sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <h4>☁️ Cloud Certified</h4>
-      <p><b>Microsoft Azure</b><br/><sub>AZ-900 Fundamentals<br/>Certified Professional</sub></p>
+      <br/>
+      <img src="https://img.shields.io/badge/Cloud-Azure_AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+      <br/><br/>
+      <b>Microsoft Certified</b><br/>
+      <sub>Azure Fundamentals Certified</sub>
     </td>
   </tr>
 </table>
@@ -95,28 +107,27 @@
 
 <br/>
 
-## 👋 About Me
+## 👨‍💻 About Me
 
 <table>
   <tr>
-    <td width="64%" valign="top">
+    <td width="63%" valign="top">
       <p>
-        I am a <b>Computer Science undergraduate</b> at <b>Techno India University, West Bengal</b> (2023 – 2027, CGPA: <b>9.13</b>), with hands-on experience in <b>software development</b>, <b>frontend engineering</b>, <b>IoT systems</b>, and <b>data analytics</b>.
+        I am a <b>Computer Science undergraduate</b> at <b>Techno India University, West Bengal</b> (2023 – 2027, CGPA: <b>9.13</b>), with hands-on experience spanning <b>software engineering</b>, <b>frontend development</b>, <b>IoT systems</b>, and <b>data analytics</b>.
       </p>
       <p>
-        Skilled in <b>Python</b>, <b>Java</b>, <b>JavaScript</b>, <b>React.js</b>, <b>FastAPI</b>, <b>SQL</b>, and <b>Microsoft Excel</b>, with <b>100+ LeetCode problems solved</b>. Experienced in architecting interactive web applications, intelligent decision-support platforms, REST APIs, and data-driven dashboards.
+        Proficient in <b>Python</b>, <b>Java</b>, <b>JavaScript</b>, <b>React.js</b>, <b>FastAPI</b>, <b>SQL</b>, and <b>Microsoft Excel</b>, with over <b>100+ LeetCode problems solved</b>. My project portfolio spans building intelligent municipal decision-support platforms (NIVARA), interactive algorithm visualization tools (CodeVision), smart IoT transit systems (TapNRide), and executive business intelligence dashboards.
       </p>
       <ul>
-        <li>🎓 <b>Degree:</b> B.Tech in Computer Science and Engineering, Techno India University (2023 – 2027)</li>
-        <li>📍 <b>Location:</b> Kolkata, West Bengal, India</li>
-        <li>💡 <b>Core Competencies:</b> Full-Stack Development, Decision-Support Systems, IoT Prototyping & BI Dashboards</li>
-        <li>📊 <b>Data & Analytics:</b> SQL, Excel, Power Query, Pivot Tables/Charts, Slicers, Data Cleaning & Transformation</li>
-        <li>🌱 <b>Continuous Growth:</b> Solving DSA on LeetCode & building production-grade full-stack applications</li>
-        <li>⚡ <b>Philosophy:</b> <i>"Transforming complex data and algorithms into intuitive, human-centered digital solutions."</i></li>
+        <li>🎓 <b>Academic Track:</b> B.Tech in CSE, Techno India University, Kolkata (2023 – 2027)</li>
+        <li>💡 <b>Engineering Pillars:</b> Full-Stack Web Development, IoT Prototyping &amp; Intelligent Decision Platforms</li>
+        <li>📊 <b>Analytics Expertise:</b> SQL, Excel, Power Query, Pivot Tables/Charts, Slicers &amp; KPI Dashboards</li>
+        <li>🏆 <b>Competitive Track Record:</b> 1st Runner-Up @ AI Unleashed S4 &amp; Smart India Hackathon Qualifier</li>
+        <li>⚡ <b>Core Philosophy:</b> <i>"Bridging computational algorithms and data analytics to build high-impact, human-centered systems."</i></li>
       </ul>
     </td>
-    <td width="36%" align="center" valign="middle">
-      <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=480&q=80" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.35);" alt="Analytics and Development" />
+    <td width="37%" align="center" valign="middle">
+      <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=480&q=80" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" alt="Asish Bose Profile Visual" />
       <br/><br/>
       <img src="https://img.shields.io/badge/Open_To-Internships_%26_Collaborations-0A66C2?style=flat-square" />
     </td>
@@ -129,14 +140,14 @@
 
 <br/>
 
-## 🏆 Achievements & Honors
+## 🏆 Key Achievements
 
 <table>
   <thead>
     <tr>
-      <th width="15%" align="center">Award / Honor</th>
-      <th width="45%" align="left">Event & Initiative</th>
-      <th width="40%" align="left">Details & Project</th>
+      <th width="18%" align="center">Recognition</th>
+      <th width="42%" align="left">Event / Initiative</th>
+      <th width="40%" align="left">Impact &amp; Details</th>
     </tr>
   </thead>
   <tbody>
@@ -146,10 +157,10 @@
       </td>
       <td>
         <b>AI Unleashed Season 4, 2026</b><br/>
-        <sub>Organized Innovation Hackathon</sub>
+        <sub>Flagship Innovation Hackathon</sub>
       </td>
       <td>
-        Secured <b>1st Runner-Up</b> with <b>Team PanchaBhuj</b> for <b>NIVARA</b>, an AI-powered municipal urban waterlogging decision-support platform for Kolkata.
+        Secured <b>1st Runner-Up</b> with <b>Team PanchaBhuj</b> for <b>NIVARA</b>, an AI-powered municipal waterlogging decision-support platform designed for Kolkata.
       </td>
     </tr>
     <tr>
@@ -158,10 +169,10 @@
       </td>
       <td>
         <b>Smart India Hackathon (SIH) Internal Round</b><br/>
-        <sub>National Level Hackathon Selection</sub>
+        <sub>National Innovation Initiative</sub>
       </td>
       <td>
-        Qualified through the rigorous university internal round with <b>Team SoroBhuj</b> for innovative problem solving.
+        Qualified through the rigorous university internal selection round with <b>Team SoroBhuj</b> for public sector innovation.
       </td>
     </tr>
     <tr>
@@ -170,10 +181,10 @@
       </td>
       <td>
         <b>Algorithmic Problem Solving</b><br/>
-        <sub>Data Structures & Algorithms</sub>
+        <sub>Data Structures &amp; Algorithms</sub>
       </td>
       <td>
-        Solved <b>100+ problems on LeetCode</b> across arrays, strings, trees, hashing, and dynamic programming in Python, C++, and Java.
+        Solved <b>100+ LeetCode problems</b> covering arrays, strings, trees, hashing, and dynamic programming in Python, C++, and Java.
       </td>
     </tr>
   </tbody>
@@ -185,7 +196,7 @@
 
 <br/>
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
@@ -205,7 +216,7 @@
 
 <br/>
 
-### 🎨 Frontend Engineering
+### 🎨 Frontend Development
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,threejs&theme=dark" alt="Frontend" />
 </a>
@@ -219,7 +230,7 @@
 
 <br/>
 
-### ⚙️ Backend Engineering & APIs
+### ⚙️ Backend & APIs
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=fastapi,postman&theme=dark" alt="Backend" />
 </a>
@@ -236,7 +247,7 @@
   <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Power Query" />
-  <img src="https://img.shields.io/badge/Pivot_Tables_%26_Charts-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Pivot Tables" />
+  <img src="https://img.shields.io/badge/Pivot_Tables-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Pivot Tables" />
   <img src="https://img.shields.io/badge/Slicers-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Slicers" />
 </p>
 <p>
@@ -247,7 +258,7 @@
 
 <br/>
 
-### 🗄️ Databases, Hardware & Developer Tools
+### 🗄️ Databases, Hardware & Workflow
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="Databases and Tools" />
 </a>
@@ -272,8 +283,8 @@
 <table>
   <thead>
     <tr>
-      <th width="46%">Project & Overview</th>
-      <th width="34%">Key Highlights & Impact</th>
+      <th width="46%">Project &amp; Overview</th>
+      <th width="34%">Highlights &amp; Impact</th>
       <th width="20%">Tech Stack</th>
     </tr>
   </thead>
@@ -281,7 +292,7 @@
     <!-- Project 1: NIVARA -->
     <tr>
       <td valign="top">
-        <h3>🌊 NIVARA — AI-Powered Urban Waterlogging Decision-Support Platform</h3>
+        <h3>🌊 NIVARA — Urban Waterlogging Decision-Support Platform</h3>
         <p>
           <img src="https://img.shields.io/badge/1st_Runner--Up-AI_Unleashed_S4-C0C0C0?style=flat-square&logo=codementor" />
         </p>
@@ -291,10 +302,10 @@
       </td>
       <td valign="top">
         <ul>
-          <li>Interactive geospatial visualizations & smart-city administrator dashboard</li>
-          <li>Real-time incident monitoring & municipal emergency coordination</li>
+          <li>Interactive geospatial visualizations &amp; smart-city administrator dashboard</li>
+          <li>Real-time incident monitoring &amp; municipal emergency coordination</li>
           <li>Deterministic simulation engine modeling waterlogging scenarios to evaluate intervention effectiveness</li>
-          <li>Award-winning civic tech innovation</li>
+          <li>Awarded 1st Runner-Up with Team PanchaBhuj</li>
         </ul>
       </td>
       <td valign="top" align="center">
@@ -321,7 +332,7 @@
       </td>
       <td valign="top">
         <ul>
-          <li>Full-stack architecture with React.js frontend & FastAPI backend REST APIs</li>
+          <li>Full-stack architecture with React.js frontend &amp; FastAPI backend REST APIs</li>
           <li>Step-by-step algorithm execution with interactive Next/Previous controls</li>
           <li>Dynamic visualization of arrays, trees, graphs, and algorithmic logic</li>
           <li>Hands-on learning modules with contextual code walkthroughs</li>
@@ -349,9 +360,9 @@
       </td>
       <td valign="top">
         <ul>
-          <li>Hardware integration with ESP32, RFID card reader, GPS module & LCD display</li>
-          <li>Automated contactless fare deduction & digital ticketing workflows</li>
-          <li>FastAPI backend workflows & MySQL database for secure transit logging</li>
+          <li>Hardware integration with ESP32, RFID card reader, GPS module &amp; LCD display</li>
+          <li>Automated contactless fare deduction &amp; digital ticketing workflows</li>
+          <li>FastAPI backend workflows &amp; MySQL database for secure transit logging</li>
           <li>Real-time GPS vehicle location tracking for commuter status updates</li>
         </ul>
       </td>
@@ -379,7 +390,7 @@
       </td>
       <td valign="top">
         <ul>
-          <li>End-to-end data cleaning & ETL transformation using Power Query</li>
+          <li>End-to-end data cleaning &amp; ETL transformation using Power Query</li>
           <li>Dynamic Pivot Tables, Pivot Charts, and custom Excel KPI formulas</li>
           <li>Interactive cross-filtering via Slicers for granular drill-downs</li>
           <li>Actionable insights on regional trends, sales reps, and product profitability</li>
@@ -404,7 +415,7 @@
 
 <br/>
 
-## 📜 Certifications & Virtual Experience
+## 📜 Certifications &amp; Experience
 
 <table>
   <thead>
@@ -444,7 +455,7 @@
       </td>
     </tr>
     <tr>
-      <td><b>AI & Machine Learning Virtual Internship</b></td>
+      <td><b>AI &amp; Machine Learning Virtual Internship</b></td>
       <td>IBM SkillsBuild</td>
       <td align="center">
         <img src="https://img.shields.io/badge/Completed-IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" />
@@ -471,7 +482,7 @@
 <table>
   <thead>
     <tr>
-      <th width="45%" align="left">Degree & Major</th>
+      <th width="45%" align="left">Degree &amp; Major</th>
       <th width="35%" align="left">Institution</th>
       <th width="10%" align="center">Duration</th>
       <th width="10%" align="center">CGPA</th>
@@ -481,7 +492,7 @@
     <tr>
       <td>
         <b>B.Tech in Computer Science and Engineering</b><br/>
-        <sub>Undergraduate Program</sub>
+        <sub>Undergraduate Degree Program</sub>
       </td>
       <td>
         <b>Techno India University</b><br/>
@@ -505,9 +516,9 @@
 
 | Language | Proficiency Level | Capabilities |
 | :--- | :--- | :--- |
-| 🇬🇧 **English** | Professional Working Proficiency | Technical documentation, reporting & team collaboration |
-| 🇮🇳 **Hindi** | Professional Working Proficiency | Professional conversations & interpersonal communication |
-| 🇮🇳 **Bengali** | Native Proficiency | Native fluency & primary language |
+| 🇬🇧 **English** | Professional Working Proficiency | Technical documentation, team reporting &amp; presentations |
+| 🇮🇳 **Hindi** | Professional Working Proficiency | Fluent professional &amp; interpersonal communication |
+| 🇮🇳 **Bengali** | Native Proficiency | Primary language &amp; native fluency |
 
 </div>
 
@@ -517,7 +528,7 @@
 
 <br/>
 
-## 📊 GitHub Insights & Analytics
+## 📊 GitHub Insights &amp; Coding Activity
 
 <div align="center">
 
@@ -541,7 +552,7 @@
 
 <!-- LeetCode Interactive Stats Card -->
 <p align="center">
-  <b>🧩 LeetCode Problem Solving Stats</b>
+  <b>🧩 LeetCode Problem Solving Profile</b>
 </p>
 <a href="https://leetcode.com/Asish2404">
   <img src="https://leetcard.jacoblin.cool/Asish2404?theme=dark&font=Ubuntu" alt="LeetCode Stats" width="460" />
@@ -551,7 +562,7 @@
 
 <!-- 365-Day Contribution Heatmap Graph -->
 <p align="center">
-  <b>📈 365-Day Contribution Activity Graph</b>
+  <b>📈 365-Day GitHub Contribution Graph</b>
 </p>
 <img src="https://ghchart.rshah.org/58A6FF/Asish2404" alt="Asish's GitHub Contribution Activity Graph" width="100%" />
 
@@ -586,8 +597,8 @@
 <div align="center">
 
 <p>
-  I'm actively looking for opportunities in <b>Software Development</b>, <b>Frontend Engineering</b>, and <b>Data Analytics</b>.<br/>
-  Feel free to reach out for collaborations, discussions, or inquiries!
+  I'm actively open for opportunities in <b>Software Engineering</b>, <b>Frontend Development</b>, and <b>Data Analytics</b>.<br/>
+  Whether you want to discuss a project, collaborate, or connect — reach out!
 </p>
 
 <br/>
@@ -620,15 +631,10 @@
   </tr>
 </table>
 
-</div>
-
 <br/>
 
-<!-- Footer Banner (Local SVG) -->
-<img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Happy+Coding+%F0%9F%91%8B;Always+learning,+always+building!" alt="Closing Typing SVG" />
+</a>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Happy+Coding+%F0%9F%91%8B;Always+learning,+always+building!" alt="Closing Typing SVG" />
-  </a>
 </div>
