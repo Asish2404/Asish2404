@@ -505,7 +505,7 @@
       <td><b>Data Analytics</b></td>
       <td>TuteDude</td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-completed-blue?style=flat-square" />
       </td>
     </tr>
   </tbody>
